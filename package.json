@@ -1,0 +1,25 @@
+{
+  "name": "git-create-delta",
+  "version": "0.0.0",
+  "description": "create git deltas between two buffers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/git-create-delta.git"
+  },
+  "keywords": [
+    "git",
+    "create",
+    "delta"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us>",
+  "license": "MIT",
+  "gitHead": "438d949771027768ac7559b0919824123406dc34",
+  "devDependencies": {
+    "tape": "~0.3.3",
+    "git-apply-delta": "0.0.3"
+  }
+}
