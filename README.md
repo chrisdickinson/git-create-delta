@@ -1,5 +1,7 @@
 # git-create-delta
 
+[![browser support](http://ci.testling.com/chrisdickinson/git-create-delta.png)](http://ci.testling.com/chrisdickinson/git-create-delta)
+
 based largely off of [@tarruda's magnificent work](https://github.com/tarruda/node-git-core), `git-create-delta` creates binary deltas between buffer objects.
 
 ```javascript

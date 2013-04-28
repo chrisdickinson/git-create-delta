@@ -15,6 +15,17 @@
     "create",
     "delta"
   ],
+  "testling": {
+    "files": "test.js",
+    "browsers": [
+      "ie/9..latest",
+      "firefox/10..latest",
+      "chrome/20..latest",
+      "safari/latest",
+      "iphone/6",
+      "ipad/6"
+    ]
+  },
   "author": "Chris Dickinson <chris@neversaw.us>",
   "license": "MIT",
   "gitHead": "438d949771027768ac7559b0919824123406dc34",
