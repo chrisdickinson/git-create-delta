@@ -1,6 +1,6 @@
 {
   "name": "git-create-delta",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "create git deltas between two buffers",
   "main": "index.js",
   "scripts": {
